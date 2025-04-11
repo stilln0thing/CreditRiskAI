@@ -1,0 +1,11 @@
+openai
+llama-index
+faiss-cpu
+xgboost
+scikit-learn
+pandas
+fastapi
+uvicorn
+streamlit
+python-dotenv
+PyPDF2
