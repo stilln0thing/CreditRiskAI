@@ -1,4 +1,3 @@
-openai
 llama-index
 faiss-cpu
 xgboost
@@ -9,3 +8,5 @@ uvicorn
 streamlit
 python-dotenv
 PyPDF2
+huggingface-hub
+transformers

@@ -1,0 +1,9 @@
+Credit risk is the possibility of a borrower failing to repay a loan or meet contractual obligations. Financial institutions assess credit risk to determine how risky a loan is before issuing it. Several factors influence this assessment:
+
+1. Income stability: Irregular or low income can indicate high risk.
+2. Credit history: A poor repayment record increases risk.
+3. Debt-to-income ratio: Higher ratios suggest difficulty in repaying new loans.
+4. Employment type: Permanent jobs are usually less risky than informal or gig-based work.
+5. Past defaults: A history of defaults increases future risk.
+
+Credit risk modeling often uses logistic regression, decision trees, or gradient boosting algorithms like XGBoost.

@@ -1,0 +1,9 @@
+Underserved populations often include gig workers, rural residents, and individuals without formal banking history. Their financial behavior is harder to assess using traditional credit scoring due to:
+
+1. Irregular income sources (e.g., freelance or contract work)
+2. Limited access to credit products
+3. Cash-based transactions with fewer digital records
+4. Infrequent or late bill payments due to cash flow gaps
+5. Low but consistent mobile recharge or rent payments
+
+New-age credit modeling for underserved groups uses alternative data like mobile recharges, UPI transactions, and utility bill history to better gauge creditworthiness.
